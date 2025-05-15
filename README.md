@@ -1,7 +1,7 @@
 # 📊 Ecommerce Performance Dashboard – Power BI Project
 
 ![Ecommerce Dashboard Preview](Executive View.png)
-![Ecommerce Dashboard Preview](Campaign Performance View.png)
+![Ecommerce Dashboard Preview](Campaign Performance View.PNG)
 
 
 
