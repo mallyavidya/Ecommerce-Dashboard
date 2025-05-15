@@ -1,44 +1,94 @@
-E-commerce Marketing Performance Dashboard – Shopify + Meta + Google Ads
-Date: May 15, 2025
-Role: Freelance Data Analyst
-Technologies: Power BI, Power Query, DAX, Data Modeling, Data Cleaning
-Data Source: Shopify Order Data, Meta Ads, Google Ads (Extracted from client Google Sheets)
+# 📊 Ecommerce Performance Dashboard – Power BI Project
 
-Project Overview
-Background
-<div align="justify"> In the highly competitive world of e-commerce, understanding marketing performance across digital platforms is critical for profitable growth. The client, a D2C e-commerce brand, wanted to track advertising spend across <strong>Meta</strong> and <strong>Google Ads</strong> and understand how it translated into actual sales on their <strong>Shopify</strong> store. The goal was to align ad investments with product sales performance, optimize campaign targeting, and drive higher return on ad spend (ROAS).</div>
+![Ecommerce Dashboard Preview](Executive View.png)
+![Ecommerce Dashboard Preview](Campaign Performance View.png)
 
+**Date:** May 2025  
+**Role:** Freelance Data Analyst  
+**Technologies:** Power BI, Power Query, DAX  
+**Data Source:** Ecommerce Sales and Marketing Campaign Data (Jan–Apr 2025)
 
- Project Objective
-• Analyze 𝗠𝗲𝘁𝗮 and 𝗚𝗼𝗼𝗴𝗹𝗲 𝗔𝗱𝘀 cost vs revenue trends to evaluate channel effectiveness.
-• Integrate 𝗦𝗵𝗼𝗽𝗶𝗳𝘆 order and product data to calculate true 𝗰𝗼𝗻𝘃𝗲𝗿𝘀𝗶𝗼𝗻 𝗿𝗮𝘁𝗲𝘀 and 𝗥𝗢𝗔𝗦.
-• Highlight top-performing 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝘀, 𝗰𝗮𝘁𝗲𝗴𝗼𝗿𝗶𝗲𝘀, and 𝗰𝗵𝗮𝗻𝗻𝗲𝗹𝘀 that drive profit.
-• Deliver actionable 𝗞𝗣𝗜𝘀 and visualizations to support 𝗴𝗿𝗼𝘄𝘁𝗵-𝗳𝗼𝗰𝘂𝘀𝗲𝗱 decision-making.
+---
 
+##  Project Overview
 
-Dashboard Views
-1. Executive Overview
-<div align="justify">The Executive View provides a high-level summary of total ad spend, total revenue, and ROAS, broken down by channel and campaign. Visual indicators help quickly identify underperforming or overspending campaigns. This view is ideal for founders or decision-makers seeking quick clarity on marketing ROI.</div>
-![Executive View]
+###  Background  
+A rapidly growing ecommerce brand specializing in regional snacks wanted to track and optimize its **sales and digital marketing campaigns** across multiple Indian states. I developed a comprehensive **Ecommerce Dashboard** in Power BI that provided real-time insights into product performance, ad efficiency, and customer behavior.
 
-2. Campaign Performance
-<div align="justify">This dashboard dives deeper into each marketing channel (Meta and Google) by comparing ad spend vs revenue by day, week, and campaign. Campaign-level ROAS and CPC metrics help identify which campaigns drive the most efficient returns, enabling better budget optimization.</div>
-![Campaign Performance View]
+###  Objective  
+To integrate sales and marketing data, clean and structure it using **Power Query**, and calculate essential KPIs using **DAX**. The goal was to help the business:
 
+- Identify top-performing products and regions  
+- Optimize advertising spends across platforms  
+- Improve customer acquisition efficiency  
+- Track campaign ROI and trends over time  
 
-Recommendations
--Pause or optimize low-performing campaigns with high cost and poor ROAS.
--Focus ad budget on top-converting products and winning categories.
--Refine audience targeting on Meta using lookalikes from high-value customer data.
--Use product performance data to design bundled offers that match ad engagement.
--Implement automated alerts for campaigns with ROAS drop or CPC spikes using Power BI Service.
+---
 
+##  Key Metrics & Features
 
-Tools & Technologies
--Power BI – Interactive visuals & dynamic filtering
--Power Query – Data extraction, transformation, and load (ETL) from multiple sources
--DAX – Custom calculations for ROAS, CTR, conversion rate, AOV, and profit margin
--Google Sheets – Data connectors for ad spend and sales data
--Shopify Export – Orders and product-level sales analysis
+- **Total Sales**: ₹79.84M  
+- **Google Ad Spend**: ₹356.73K  
+- **Meta Ad Spend**: ₹31.3M  
+- **CAC (Customer Acquisition Cost)**: ₹151  
+- **AOV (Average Order Value)**: ₹185.57  
+- **ROAS (Return on Ad Spend)**: 2.52 (average), up to 3.56 in campaigns  
+- **Impressions**: 311M  
+- **Clicks**: 4M+  
+- **Conversions**: 129K  
 
-## [Download Power BI Dashboards](https://app.powerbi.com/view?r=eyJrIjoiOTNjNDA5YjItNGE4YS00OGQ0LWE1MzktOTkwYTUzY2MyNTY2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+---
+
+##  Regional & Product Insights
+
+- **Top Sales Regions**: Maharashtra, Karnataka, Tamil Nadu  
+- **High Revenue Product Types**:  
+  - South Indian Snacks  
+  - Kerala Chips  
+  - Papads & Fryums  
+
+---
+
+##  Campaign Performance Highlights
+
+- **Top ROAS Campaigns**:  
+  - “MT | Cart Abandon - Remarketing”  
+  - “MT | Existing Customers”  
+- **Campaign Metrics Tracked**:  
+  - Daily Spend  
+  - ROAS by Campaign  
+  - Conversions Over Time  
+  - Clicks and CTR  
+
+---
+
+##  Business Recommendations
+
+- Increase ad budget on **high-ROAS campaigns**  
+- Improve **CTR** by testing better creatives  
+- Scale product supply in **high-demand states**  
+- Lower CAC by targeting **repeat customers** and optimizing **Google spend**  
+- Monitor **conversion-to-spend ratio** monthly  
+
+---
+
+##  Tools & Technologies
+
+- **Power BI**: Data visualization and dashboard creation  
+- **Power Query**: Data transformation and cleaning  
+- **DAX**: Custom KPIs like ROAS, CAC, AOV, Conversion Rate  
+
+---
+
+##  Business Impact
+
+This dashboard empowered the ecommerce team to make data-driven decisions across marketing, inventory, and regional expansion — driving higher ROI, better targeting, and smarter product focus.
+
+---
+
+##  Download or View Dashboard  
+📎 **[Click here to view the full Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTNjNDA5YjItNGE4YS00OGQ0LWE1MzktOTkwYTUzY2MyNTY2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**  
+ Created by **Vidyalaxmi Mallya**, Freelance Data Analyst
+
+---
+
