@@ -1,9 +1,5 @@
 # 📊 Ecommerce Performance Dashboard – Power BI Project
 
-![Ecommerce Dashboard – Executive View](Executive%20View.png)
-![Ecommerce Dashboard – Campaign Performance](Campaign%20Performance%20View.png)
-
-
 
 **Date:** May 2025  
 **Role:** Freelance Data Analyst  
@@ -29,6 +25,8 @@ To integrate sales and marketing data, clean and structure it using **Power Quer
 
 ##  Key Metrics & Features
 
+![Ecommerce Dashboard – Executive View](Executive%20View.png)
+
 - **Total Sales**: ₹79.84M  
 - **Google Ad Spend**: ₹356.73K  
 - **Meta Ad Spend**: ₹31.3M  
@@ -52,6 +50,8 @@ To integrate sales and marketing data, clean and structure it using **Power Quer
 ---
 
 ##  Campaign Performance Highlights
+
+![Ecommerce Dashboard – Campaign Performance](Campaign%20Performance%20View.png)
 
 - **Top ROAS Campaigns**:  
   - “MT | Cart Abandon - Remarketing”  
